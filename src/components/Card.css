@@ -1,0 +1,13 @@
+.adjustcard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100vw;
+    padding: 0px;
+    margin-bottom: 30px;
+}
+
+.bestseller {
+    margin-bottom: 20px;
+
+}
